@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Érica 👋
 
-Atualmente sou graduanda em Análise e Desenvolvimento de Sistemas. Possuo formação em Processos Gerenciais e Pós-Graduação em Neurociência e Psicologia Aplicada. 
+Graduanda em Análise e Desenvolvimento de Sistemas. Possuo formação em Processos Gerenciais e Pós-Graduação em Neurociência e Psicologia Aplicada. 
 
 Sou paixonada por tecnologia integrada ao comportamento humano 🧠
 
